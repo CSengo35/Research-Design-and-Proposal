@@ -218,18 +218,12 @@ dt <- dt %>%
 # Drop Enumerators --------------------------------------------------------
 
 
-Enumerators_drop <- dt[dt$`Enumerator Id` %in% c("mutwirii609@gmail.com","allan@gmail.com","moureen@gmail.com","defence@gmail.com",
-                                                 "godfrey.sakia@gmail.com","wcrl.test@gmail.com","yvonnemeggie438@gmail.com","elixodero450@gmail.com")
+Enumerators_drop <- dt[dt$`Enumerator Id` %in% c("mutwirii6yt09@gmail.com","allan@gmail.com","moureent@gmail.com",
+                                                 "wcrltt.test@gmail.com","yvonnemeggitte438@gmail.com","elixodttero450@gmail.com")
                                                 ,c("SurveyId","UserId","Enumerator Id","OptIn Date","New Total Case Duration", "Country")]  #,"Mobile Number","Province",
 
 
 
-
-
-debug_function(dataset_name = Enumerators_drop,
-               Reason_text = "Enumerator Blacklisted",
-               dataset_full = dt,
-               renamed = FALSE)
 
 
 dt <- dt %>% 
