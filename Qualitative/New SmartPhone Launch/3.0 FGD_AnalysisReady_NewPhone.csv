@@ -1,0 +1,61 @@
+fgd_id,turn_id,timestamp,speaker,utterance_raw,note,utterance_clean,theme,codes,sentiment,payoff_flag,risk_flag,advantage_flag
+FGD1_Nairobi,2,10:00:10,P4_M,My friend told me about it; alisema camera iko poa sana.,laughs,My friend told me about it; alisema camera iko poa sana.,Camera,,Neutral,0,0,0
+FGD1_Nairobi,3,10:00:55,P1_F,"I saw aki it on Instagram last week, like, everyone was posting it 😅...",,"I saw aki it on Instagram last week, like, everyone was posting it 😅.",Awareness,AWARENESS_SOCIAL_MEDIA,Neutral,0,0,0
+FGD1_Nairobi,4,10:01:36,P5_F,My friend told me about it; alisema camera iko poa sana.,,My friend told me about it; alisema camera iko poa sana.,Camera,,Neutral,0,0,0
+FGD1_Nairobi,5,10:03:19,P3_F,Heard about it kupitia TikTok lakini sikuelewa what's special. .,,Heard about it kupitia TikTok lakini sikuelewa what's special..,Awareness,AWARENESS_SOCIAL_MEDIA;DIFFERENTIATION_UNCLEAR,Neutral,0,0,0
+FGD1_Nairobi,7,10:05:20,P3_F,"First thought: nzuri, but prize? eeh.",laughs,"First thought: nzuri, but prize? eeh.",Price & value,PRICE_SENSITIVE,Neutral,1,0,0
+FGD1_Nairobi,8,10:05:55,P4_M,"The screen is kind of bright, but I'm not sure kuhusu durability.",interrupts,"The screen is kind of bright, but 'm not sure kuhusu durability.",First impressions,DESIGN_PREMIUM;DIFFERENTIATION_UNCLEAR,Neutral,0,0,1
+FGD1_Nairobi,9,10:07:19,P2_M,"It looks premium honestly, but the branding is not as strong eh as Samsung. [overlap]",interrupts,"It looks premium honestly, but the branding is not as strong eh as Samsung.",First impressions,DESIGN_PREMIUM,Positive,0,0,1
+FGD1_Nairobi,11,10:10:53,P4_M,Camera is eh good but portrait mode sometimes looks fake-ish.,interrupts,Camera is eh good but portrait mode sometimes looks fake-ish.,Camera,CAMERA_LIMITATION,Mixed,0,0,0
+FGD1_Nairobi,12,10:11:07,P5_F,"Low light shots sasa are sharp, like wow.",interrupts,"Low light shots sasa are sharp, like wow.",Camera,CAMERA_STRONG,Positive,0,0,1
+FGD1_Nairobi,13,10:11:26,P2_M,"Low light shots are sharp, like wow.",,"Low light shots are sharp, like wow.",Camera,CAMERA_STRONG,Positive,0,0,1
+FGD1_Nairobi,14,10:13:17,P1_F,"Low light shots you know are sharp, like wow.",laughs,"Low light shots you know are sharp, like wow.",Camera,CAMERA_STRONG,Positive,0,0,1
+FGD1_Nairobi,16,10:15:09,P5_F,Battery lasts the whole sasa day even with WhatsApp + YouTube.,,Battery lasts the whole sasa day even with WhatsApp + YouTube.,Battery,,Positive,0,0,0
+FGD1_Nairobi,17,10:15:43,P3_F,"Charging is fast, basically but no charger in the box?? why 😭",,"Charging is fast, basically but no charger in the box. why 😭",Battery,MISSING_CHARGER,Mixed,0,1,0
+FGD1_Nairobi,18,10:16:03,P2_M,Battery lasts the whole day even with WhatsApp you know + YouTube. [overlap],,Battery lasts the whole day even with WhatsApp you know + YouTube.,Battery,BATTERY_STRONG,Positive,0,0,1
+FGD1_Nairobi,19,10:16:54,P4_M,batery lasts the whole day even with WhatsApp + YouTube.,laughs,batery lasts the whole day even with WhatsApp + YouTube.,Battery,BATTERY_STRONG,Positive,0,0,1
+FGD1_Nairobi,20,10:18:20,P1_F,"Charging is fast, but no charger kind of in the box?? why 😭!!",,"Charging is fast, but no charger kind of in the box. why 😭.",Battery,MISSING_CHARGER,Mixed,0,1,0
+FGD1_Nairobi,22,10:22:21,P1_F,"Some apps lag kidogo, um especially when switching. [overlap]",interrupts,"Some apps lag kidogo, um especially when switching.",Software,,Negative,0,0,0
+FGD1_Nairobi,23,10:24:03,P5_F,Updates are not clear; aki I worry about long-term support.,interrupts,Updates are not clear; aki I worry about long-term support.,Software,,Negative,0,0,0
+FGD1_Nairobi,24,10:24:55,P4_M,UI is okay but takes like time to get used to.,,UI is okay but takes like time to get used to.,Software,SOFTWARE_LEARNING_CURVE,Neutral,0,0,0
+FGD1_Nairobi,25,10:25:11,P3_F,"Some apps lag kidogo, especially when eh switching.",interrupts,"Some apps lag kidogo, especially when eh switching.",Software,,Negative,0,0,0
+FGD1_Nairobi,27,10:25:53,P3_F,If it was like 5k cheaper I'd aki buy now.,laughs,If it was like 5k cheaper 'd aki buy now.,Price & value,PRICE_SENSITIVE,Neutral,1,0,0
+FGD1_Nairobi,28,10:27:07,P5_F,"Price is fair for the features, lakini financing would help.",interrupts,"Price is fair for the features, lakini financing would help.",Price & value,FINANCING_INTEREST;PRICE_SENSITIVE,Neutral,1,0,0
+FGD1_Nairobi,29,10:28:34,P1_F,It's expensive for a like new brand; I'd wait for reviews.,laughs,It's expensive for a like new brand; 'd wait for reviews.,Price & value,BRAND_TRUST_LOW;PRICE_SENSITIVE;WAIT_AND_SEE,Negative,1,1,0
+FGD1_Nairobi,31,10:30:49,P2_M,"If influencers + friends recommend, I can trust.",laughs,"If influencers + friends recommend, I can trust.",Brand trust,SOCIAL_PROOF,Neutral,0,0,0
+FGD1_Nairobi,32,10:32:21,P4_M,"I trust Samsung more, I've basically used it for years.",laughs,"I trust Samsung more, 've basically used it for years.",Brand trust,,Neutral,0,0,0
+FGD1_Nairobi,33,10:33:33,P1_F,"Brand aki is new, so I'm cautious, maybe after 3 months.",laughs,"Brand aki is new, so 'm cautious, maybe after 3 months.",Brand trust,BRAND_TRUST_LOW,Negative,0,1,0
+FGD1_Nairobi,34,10:34:54,P5_F,"I trust Samsung more, I've eh used it for years.",,"I trust Samsung more, 've eh used it for years.",Brand trust,,Neutral,0,0,0
+FGD1_Nairobi,36,10:36:48,P4_M,"I'll wait for discounts, otherwise I'll stick to my current phone.",,"ll wait for discounts, otherwise I'll stick to my current phone.",Purchase intent,WAIT_AND_SEE,Neutral,0,0,0
+FGD1_Nairobi,37,10:37:03,P2_M,I would buy it with a bundle — like earphones or data. [overlap],laughs,I would buy it with a bundle — like earphones or data.,Purchase intent,PROMO_BUNDLE_INTEREST,Neutral,1,0,0
+FGD1_Nairobi,38,10:38:29,P5_F,I would buy it with a bundle — like like earphones or data.,laughs,I would buy it with a bundle — like like earphones or data.,Purchase intent,PROMO_BUNDLE_INTEREST,Neutral,1,0,0
+FGD1_Nairobi,39,10:39:20,P1_F,"If they do a back-to-school promo, it will aki move fast.",interrupts,"If they do a back-to-school promo, it will aki move fast.",Purchase intent,PROMO_BUNDLE_INTEREST,Positive,1,0,0
+FGD1_Nairobi,40,10:39:30,P3_F,"If they eh do a back-to-school promo, it will move fast. [overlap]",laughs,"If they eh do a back-to-school promo, it will move fast.",Purchase intent,PROMO_BUNDLE_INTEREST,Positive,1,0,0
+FGD2_Mombasa,2,10:00:18,P10_M,My friend told me about it; alisema camera iko poa sana. .,,My friend told me about it; alisema camera iko poa sana..,Camera,,Neutral,0,0,0
+FGD2_Mombasa,3,10:00:38,P6_M,"I saw it on Instagram last week, like, everyone was posting it 😅",interrupts,"I saw it on Instagram last week, like, everyone was posting it 😅",Awareness,AWARENESS_SOCIAL_MEDIA,Neutral,0,0,0
+FGD2_Mombasa,4,10:02:13,P9_F,"I aki saw it on Instagram last week, like, everyone was posting it 😅",interrupts,"I aki saw it on Instagram last week, like, everyone was posting it 😅",Awareness,AWARENESS_SOCIAL_MEDIA,Neutral,0,0,0
+FGD2_Mombasa,6,10:03:46,P9_F,"First thought: nzuri, but price? eeh. .",interrupts,"First thought: nzuri, but price? eeh..",Price & value,PRICE_SENSITIVE,Neutral,1,0,0
+FGD2_Mombasa,7,10:05:15,P7_F,"The screen is bright, but I'm not sure kuhusu durability.!!",,"The screen is bright, but 'm not sure kuhusu durability.",First impressions,DESIGN_PREMIUM;DIFFERENTIATION_UNCLEAR,Neutral,0,0,1
+FGD2_Mombasa,8,10:05:57,P8_M,"The screen is bright, but I'm kind of not sure kuhusu durability.",interrupts,"The screen is bright, but 'm kind of not sure kuhusu durability.",First impressions,DESIGN_PREMIUM;DIFFERENTIATION_UNCLEAR,Neutral,0,0,1
+FGD2_Mombasa,9,10:07:43,P6_M,"It looks premium honestly, but the branding is not as strong as Samsung.??",interrupts,"It looks premium honestly, but the branding is not as strong as Samsung.",First impressions,DESIGN_PREMIUM,Positive,0,0,1
+FGD2_Mombasa,10,10:08:36,P10_M,"First thought: nzuri, but price? eeh.",interrupts,"First thought: nzuri, but price? eeh.",Price & value,PRICE_SENSITIVE,Neutral,1,0,0
+FGD2_Mombasa,12,10:10:27,P6_M,"Low light shots are sharp, like wow.",,"Low light shots are sharp, like wow.",Camera,CAMERA_STRONG,Positive,0,0,1
+FGD2_Mombasa,13,10:10:45,P7_F,"Low light shots are sharp, like aki wow.??",laughs,"Low light shots are sharp, like aki wow.",Camera,CAMERA_STRONG,Positive,0,0,1
+FGD2_Mombasa,14,10:12:11,P10_M,"Low light shots are sharp, aki like wow.",laughs,"Low light shots are sharp, aki like wow.",Camera,CAMERA_STRONG,Positive,0,0,1
+FGD2_Mombasa,16,10:15:19,P7_F,"Charging is fast, but no charger in the box?? why 😭",interrupts,"Charging is fast, but no charger in the box. why 😭",Battery,MISSING_CHARGER,Mixed,0,1,0
+FGD2_Mombasa,17,10:15:43,P9_F,"It drains when gaming, plus the phone gets warm.",,"It drains when gaming, plus the phone gets warm.",Battery,HEATING_ISSUE,Negative,0,1,0
+FGD2_Mombasa,18,10:16:18,P6_M,Battery lasts the whole day even with WhatsApp + YouTube.,,Battery lasts the whole day even with WhatsApp + YouTube.,Battery,BATTERY_STRONG,Positive,0,0,1
+FGD2_Mombasa,19,10:16:38,P10_M,"It drains when gaming, plus the phone gets warm.",,"It drains when gaming, plus the phone gets warm.",Battery,HEATING_ISSUE,Negative,0,1,0
+FGD2_Mombasa,21,10:18:26,P6_M,"Some apps lag sasa kidogo, especially when switching.",,"Some apps lag sasa kidogo, especially when switching.",Software,,Negative,0,0,0
+FGD2_Mombasa,22,10:19:05,P9_F,UI is okay but like takes time to get used to.,interrupts,UI is okay but like takes time to get used to.,Software,SOFTWARE_LEARNING_CURVE,Neutral,0,0,0
+FGD2_Mombasa,23,10:20:34,P10_M,UI is um okay but takes time to get used to.,,UI is um okay but takes time to get used to.,Software,SOFTWARE_LEARNING_CURVE,Neutral,0,0,0
+FGD2_Mombasa,25,10:23:17,P8_M,"prize is um fair for the features, lakini financing would help.",,"prize is um fair for the features, lakini financing would help.",Price & value,FINANCING_INTEREST;PRICE_SENSITIVE,Neutral,1,0,0
+FGD2_Mombasa,26,10:23:33,P6_M,"Price is fair for the features, lakini financing would help.",,"Price is fair for the features, lakini financing would help.",Price & value,FINANCING_INTEREST;PRICE_SENSITIVE,Neutral,1,0,0
+FGD2_Mombasa,27,10:25:01,P10_M,"Price is fair for the eh features, lakini financing would help....",,"Price is fair for the eh features, lakini financing would help.",Price & value,FINANCING_INTEREST;PRICE_SENSITIVE,Neutral,1,0,0
+FGD2_Mombasa,28,10:26:26,P9_F,It's expensive for a new brand; I'd wait for reviews. .,interrupts,It's expensive for a new brand; 'd wait for reviews..,Price & value,BRAND_TRUST_LOW;PRICE_SENSITIVE;WAIT_AND_SEE,Negative,1,1,0
+FGD2_Mombasa,30,10:27:59,P10_M,"I trust Samsung more, aki I've used it for years.",interrupts,"I trust Samsung more, aki 've used it for years.",Brand trust,,Neutral,0,0,0
+FGD2_Mombasa,31,10:28:48,P8_M,"Brand is new, so I'm cautious, maybe after kind of 3 months. [overlap]!!",,"Brand is new, so 'm cautious, maybe after kind of 3 months..",Brand trust,BRAND_TRUST_LOW,Negative,0,1,0
+FGD2_Mombasa,32,10:30:24,P6_M,"Brand aki is new, so I'm cautious, maybe after 3 months.",laughs,"Brand aki is new, so 'm cautious, maybe after 3 months.",Brand trust,BRAND_TRUST_LOW,Negative,0,1,0
+FGD2_Mombasa,34,10:32:12,P6_M,"If they do a back-to-school promo, it will move fast. [overlap]",,"If they do a back-to-school promo, it will move fast.",Purchase intent,PROMO_BUNDLE_INTEREST,Positive,1,0,0
+FGD2_Mombasa,35,10:33:53,P7_F,I would buy it with a bundle — like earphones or data.,laughs,I would buy it with a bundle — like earphones or data.,Purchase intent,PROMO_BUNDLE_INTEREST,Neutral,1,0,0
+FGD2_Mombasa,36,10:34:42,P8_M,"If they do a back-to-school promo, it will you know move fast.!!",,"If they do a back-to-school promo, it will you know move fast.",Purchase intent,PROMO_BUNDLE_INTEREST,Positive,1,0,0
