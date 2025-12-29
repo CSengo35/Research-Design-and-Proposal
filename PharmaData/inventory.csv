@@ -1,0 +1,9 @@
+product_id,stock_on_hand,reorder_level,warehouse
+P001,1215,300,Main Warehouse
+P002,267,500,Main Warehouse
+P003,508,400,Main Warehouse
+P004,1371,350,Main Warehouse
+P005,896,250,Main Warehouse
+P006,695,600,Main Warehouse
+P007,253,200,Main Warehouse
+P008,309,300,Main Warehouse

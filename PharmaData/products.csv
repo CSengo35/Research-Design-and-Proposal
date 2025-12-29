@@ -1,0 +1,9 @@
+product_id,product_name,category,unit_price
+P001,Amoxicillin,Antibiotic,120
+P002,Paracetamol,Pain Relief,30
+P003,Ibuprofen,Pain Relief,50
+P004,Cough Syrup,Cold & Flu,90
+P005,Antimalarial,Antimalarial,250
+P006,Vitamin C,Supplements,40
+P007,Insulin,Chronic Care,600
+P008,Antihistamine,Allergy,110

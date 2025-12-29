@@ -1,0 +1,11 @@
+customer_id,customer_name,region,customer_type
+C001,Alpha Pharmacy,Nairobi,Pharmacy
+C002,Beta Pharmacy,Nairobi,Pharmacy
+C003,City Clinic,Eldoret,Clinic
+C004,Delta Pharmacy,Kisumu,Pharmacy
+C005,Eldo Clinic,Eldoret,Clinic
+C006,Family Pharmacy,Nairobi,Pharmacy
+C007,Green Clinic,Nakuru,Clinic
+C008,HealthPlus Pharmacy,Kisumu,Pharmacy
+C009,Ivy Clinic,Nakuru,Clinic
+C010,Jubilee Pharmacy,Nairobi,Pharmacy
